@@ -1,9 +1,9 @@
 [submodule "attendeez"]
 	path = attendeez
-	url = file:///C:/Users/hp/OneDrive/Desktop/Attendeez/attendeez
+	url = https://github.com/calebomondi/attendeez
 [submodule "attendeez-tutor"]
 	path = attendeez-tutor
-	url = file:///C:/Users/hp/OneDrive/Desktop/Attendeez/attendeez-tutor
+	url = https://github.com/calebomondi/attendeez-tutor
 [submodule "backend"]
 	path = backend
-	url = file:///C:/Users/hp/OneDrive/Desktop/Attendeez/backend
+	url = https://github.com/calebomondi/attendeez-backend

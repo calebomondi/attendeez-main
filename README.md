@@ -1,2 +1,1 @@
-# ATTENDEEZ
-## Automated Class Attendance Sign In Using QR Codes
+# ATTENDEEZ: Automated Class Attendance Sign In Using QR Codes

@@ -7,3 +7,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/calebomondi/attendeez-backend
+[submodule "attendeez-admin"]
+	path = attendeez-admin
+	url = https://github.com/calebomondi/attendeez-admin
